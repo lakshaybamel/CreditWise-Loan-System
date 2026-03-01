@@ -132,6 +132,29 @@ CreditWise-Loan-System/
 
 ---
 
+## ▶️ How to Run
+
+1. Clone the repository:
+
+```
+git clone https://github.com/lakshaybamel/CreditWise-Loan-System
+cd CreditWise-Loan-System
+```
+
+2. Install required dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+3. Run the Jupyter Notebook:
+
+```
+jupyter notebook credit_wise.ipynb
+```
+
+---
+
 ## 👨‍💻 Author
 
 **Lakshay Bamel**
