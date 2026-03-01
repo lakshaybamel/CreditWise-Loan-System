@@ -137,7 +137,7 @@ CreditWise-Loan-System/
 1. Clone the repository:
 
 ```
-git clone https://github.com/lakshaybamel/CreditWise-Loan-System
+git clone https://github.com/lakshaybamel/CreditWise-Loan-System.git
 cd CreditWise-Loan-System
 ```
 
